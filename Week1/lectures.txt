@@ -1,0 +1,13 @@
+Lecture1 History of Unix
+Lecture2 POSIX and structure of Unix
+Lecture3 The Shell and standard utilities
+Lecture4 Design philosophy of Unix utilities
+Lecture5 Memory management
+Lecture6 The Unix kernel
+Lecture7 Parallel processes
+Lecture8 Threads
+Lecture9 Make and GNU autotools
+Lecture10 Networking
+Lecture11 UNIX Sockets
+Lecture12 Bash scripting
+Lecture13 Python programming language
